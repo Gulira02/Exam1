@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public enum BodyType {
+public enum BodyType {
+
+        SEDAN, HATCHBACK, CROSSOVER, SUV, STATION_WAGON;
+
+
+
+
 }
